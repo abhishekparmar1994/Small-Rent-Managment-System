@@ -77,8 +77,9 @@ Update ,
 Add New user.
 
 
-Admin Default Access
-Username: admin
+Admin Default Access 
 
-Password: admin123
+#Username: admin
+
+#Password: admin123
 
