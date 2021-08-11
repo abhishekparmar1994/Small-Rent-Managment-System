@@ -9,7 +9,8 @@ the admin can manage all information of the tenant like edit, update, delete, an
 and the staff can manage like admin but different access.
 
 Online House Rental System Project In PHP: Modules
-1. Admin Dashboard
+
+1.Admin Dashboard
 
 House type , 
 Houses ,
