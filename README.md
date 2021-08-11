@@ -11,43 +11,49 @@ and the staff can manage like admin but different access.
 Online House Rental System Project In PHP: Modules
 1. Admin Dashboard
 
-House type
-Houses
-Tenants
-Payments
-Reports
-Users
+House type , 
+Houses ,
+Tenants ,
+Payments ,
+Reports ,
+Users 
+
+
 2.House Type
 
-Category Form
-Category List
-Show Entries
-Edit
-Delete
-Search
+Category Form ,
+Category List ,
+Show Entries ,
+Edit ,
+Delete ,
+Search ,
+
+
 3.Houses
 
-House Form
-House Number
-Category
-Price
-House List
-Show Entries
-Edit
-Delete
-Search
-Number of Entries
+House Form ,
+House Number ,
+Category ,
+Price ,
+House List ,
+Show Entries ,
+Edit ,
+Delete ,
+Search ,
+Number of Entries 
+
+
 4.Tenants
 
-List of Tenant
-Number of Entries
-Name
-House Rented
-Outstanding Balance
-Last Payment
-View
-Edit
-Delete
-Add New Tenant
-Show Entries
+List of Tenant ,
+Number of Entries ,
+Name , 
+House Rented ,
+Outstanding Balance ,
+Last Payment ,
+View ,
+Edit ,
+Delete ,
+Add New Tenant ,
+Show Entries ,
 Search
