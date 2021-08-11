@@ -76,3 +76,9 @@ Delete ,
 Update ,
 Add New user.
 
+
+Admin Default Access
+Username: admin
+
+Password: admin123
+
