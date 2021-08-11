@@ -57,3 +57,21 @@ Delete ,
 Add New Tenant ,
 Show Entries ,
 Search
+
+5.Reports
+
+Monthly Payments Report , 
+Rental Balances Report  
+
+6.User
+
+Show Entries ,
+Number of Entries ,
+Name ,
+Username ,
+Search m,
+Edit ,
+Delete ,
+Update ,
+Add New user.
+
